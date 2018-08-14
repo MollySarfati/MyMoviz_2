@@ -1,0 +1,40 @@
+
+
+#root {
+  text-decoration: none;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#root a{
+  color: #000000;
+  text-decoration: none;
+
+}
+
+#card{
+  position:relative;
+  margin-bottom: 20px;
+
+}
+
+svg{
+  position: absolute;
+  color: white;
+  top: 20px;
+  size: 30px;
+  left: 10px;
+}
+
+.btn-primary {
+  background-color: #23aa4e;
+  border-color: #177d37;
+}
+
+#example {
+  margin: 3rem;
+}
+
+.customContainer {
+  border: 1px solid black;
+}
